@@ -26,19 +26,14 @@ const PORT = process.env.PORT ||5000;
 
 
 
-
-    app.use(express.static(path.join(__dirname, "./client/build")));
-    app.get("*", function(_,res) {
+if(process.env.NODE_ENV==="production"){
+    app.use(express.static(path.join("client/build")));
+    app.get("*", (req,res)=> {
         res.sendFile(
-        path.join(__dirname, "./client/build/index.html"),
-        function(err){
-            if(err){
-                res.status(500).send(err);
+        path.resolve(__dirname, 'client','build', 'index.html'))
+        });
+    }
 
-            }
-        }
-        );
-});  
 
 
 
