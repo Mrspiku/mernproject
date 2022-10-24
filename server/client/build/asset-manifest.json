@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.daf70193.css",
+    "main.js": "/static/js/main.a8964fdc.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/type1.png": "/static/media/type1.0beaac601dafadabc5f8.png",
+    "static/media/type5.png": "/static/media/type5.deb2c99e128824a5939a.png",
+    "static/media/type4.png": "/static/media/type4.7c23922521b2c7180860.png",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/lays.png": "/static/media/lays.650f854616a773429a2f.png",
+    "static/media/resume.pdf": "/static/media/resume.25bd3be263b77e90df4c.pdf",
+    "static/media/MTR.jpeg": "/static/media/MTR.14b797fe93f1fe077b85.jpeg",
+    "static/media/type3.png": "/static/media/type3.d3ddff02ea921ce96d1b.png",
+    "static/media/img1.png": "/static/media/img1.081a0bbc8c12114a43a1.png",
+    "static/media/Gumela Regular.otf": "/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/Md.png": "/static/media/Md.5e09dbb8f41f767657fa.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/Haldi.svg": "/static/media/Haldi.e94cd0ff74f1ae440467d270a866fa44.svg",
+    "index.html": "/index.html",
+    "main.daf70193.css.map": "/static/css/main.daf70193.css.map",
+    "main.a8964fdc.js.map": "/static/js/main.a8964fdc.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf70193.css",
+    "static/js/main.a8964fdc.js"
+  ]
+}

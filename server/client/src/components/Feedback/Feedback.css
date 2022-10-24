@@ -1,0 +1,140 @@
+
+
+
+
+
+.wrapper{
+    
+margin: 90px auto;
+padding: 0 10%;
+padding-bottom: 10px;
+text-transform: capitalize;
+text-align: center;
+
+   
+
+
+}
+.wrapper span:nth-child(1){
+   
+    color: var(--orange);
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 15px;
+    font-weight: bold;
+   
+}
+
+.feedback-container{
+   padding-top: 30px;
+    display: grid;
+    gap: 25px;
+    grid-template-columns: repeat(auto-fit,minmax(270px, 1fr));
+
+}
+
+.box{
+   
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: var(--boxShadow);
+    
+}
+
+.box >img{
+    height: 70px;
+    align-items: center;
+    border-radius: 50%;
+
+}
+
+.box >span:nth-of-type(1){
+    color: var(--orange);
+    padding: 13px 0;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+
+
+}
+
+.box span:nth-of-type(2){
+    color: black;
+    font-size: 12px;
+    line-height: 1.6;
+    
+
+
+}
+
+
+
+
+
+.box>ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+
+}
+
+.box>ul>li{
+    padding: 5px;
+
+
+}
+
+.box .fa{
+ font-size: 26px;
+ transition: .4s;
+ color: var(--orange);
+
+
+}
+
+
+.box:hover{
+    transform: scale(1.1);
+    box-shadow: var(--boxShadow);
+    background-color: gainsboro;
+}
+
+
+.btn{
+    color: var(--orange);
+    border: none;
+    outline: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background: #333;
+    border-radius: 5px;
+    display: inline-block;
+    text-decoration: none;
+    
+
+}
+
+
+
+
+.btn:hover{
+    transform: scale(1.03);
+    box-shadow: var(--boxShadow);
+    background: black;
+    color: var(--orange);
+}
+
+@media (max-width:770px){
+    .wrapper{
+        padding: 20px;
+    }
+
+
+}
+
+
+
